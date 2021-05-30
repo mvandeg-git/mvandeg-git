@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, monte carlo simulations and medtech
 - 🌱 I’m currently learning entrepreneurship
 - 💞️ I’m looking to collaborate on optical simulators
-- 📫 How to reach me mvandegiessen@*g*m*a*i*l*.com
+- 📫 How to reach me mvandegiessen@_g_m_a_i_l_.com
 
 <!---
 mvandeg-git/mvandeg-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
